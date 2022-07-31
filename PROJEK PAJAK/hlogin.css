@@ -1,0 +1,85 @@
+body{
+    background-color: #AE9B9B;
+}
+
+
+
+.c1{
+    position: relative;
+width: 660px;
+height: 640px;
+
+background: #AE9B9B;
+}
+
+.c2{
+    position: absolute;
+width: 518px;
+height: 535px;
+left: 410px;
+top: 52.5px;
+
+background: #FFFFFF;
+border-radius: 30px;
+}
+
+h2{
+    
+position: absolute;
+width: 327px;
+height: 48.5px;
+left: 117.5px;
+top: 126px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 97px;
+
+
+color: #000000;
+
+}
+
+h3{
+
+    position: absolute;
+width: 385.5px;
+height: 36.5px;
+left: 80px;
+top: 210px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400px;
+font-size: 30px;
+line-height: 36.5px;
+}
+
+.c35{
+    position: absolute;
+width: 276.5px;
+height: 91px;
+left: 120.5px;
+top: 297px;
+text-decoration: none;
+
+background: #D34D4D;
+border-radius: 55px;
+}
+
+p{
+position: relative;
+width: 129px;
+height: 42.5px;
+left: 80.9px;
+top: -10px;
+
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+font-style: normal;
+font-weight: 300;
+font-size: 35px;
+line-height: 44.5px;
+color: #000000;
+}

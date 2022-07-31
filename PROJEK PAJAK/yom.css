@@ -1,0 +1,30 @@
+body{
+    position: relative;
+background: #919D9D;
+margin-top: 40px;
+}
+
+fieldset{
+    border: solid 2.5px;
+}
+
+legend{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+input{
+    border-radius: 10px;
+    border: solid 0px;
+}
+
+
+
+
+.d1{
+    padding: 15px;
+    padding-left: 13px;
+    background-color: #89E5F1;
+    border-radius: 45px;
+  margin-top: 20px;
+}
+
